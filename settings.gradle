@@ -1,0 +1,2 @@
+rootProject.name = "StateFlowSample"
+include ':app'
